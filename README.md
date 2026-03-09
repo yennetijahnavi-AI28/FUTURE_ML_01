@@ -1,2 +1,14 @@
 # FUTURE_ML_01
-Machine Learning project for forecasting future sales using Linear Regression.
+
+This project predicts future sales using Linear Regression.
+
+Technologies Used:
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+Features:
+- Sales trend visualization
+- Machine learning model training
+- Future sales prediction
