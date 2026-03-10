@@ -25,7 +25,7 @@ The project uses Python data analysis libraries to visualize trends and apply a 
 * NumPy
 * Matplotlib
 * Scikit-learn
-* Google Colab
+* juypter notebook
 
 ---
 
